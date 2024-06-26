@@ -7,6 +7,8 @@ https://drive.google.com/drive/folders/13jPMYIE6-lZJXqaRZZBnm5YuLdH3BTQV?usp=sha
 * أكثر من 100 حديث صحيح 
 * أكثر من 100 نصيحة مختلفة
 
+  - تم رفع الملف اللذي يحتوي علي القران كامل الاحاديث والنصايح بطريقة منظمة (array) لضمان سرعة استجابة البرنامج وبامكان اي احد استخدامه بشكل مجاني
+
 ![شعار اسلامي_00000](https://github.com/MostafaEbrahiem/Shafe3y/assets/88105870/c6b0a739-3023-4b6d-8b06-98f16dee49c1)
 
 ![23310826-679d-489c-85f2-df4e24ff5156](https://github.com/MostafaEbrahiem/Shafe3y/assets/88105870/b4a298ba-53d8-47cf-9b6f-f43d0727ffc4)
