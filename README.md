@@ -1,6 +1,8 @@
 # Shafe3y
-رابط تحميل البرنامج https://drive.google.com/drive/folders/13jPMYIE6-lZJXqaRZZBnm5YuLdH3BTQV?usp=sharing
+رابط تحميل البرنامج
+https://drive.google.com/drive/folders/13jPMYIE6-lZJXqaRZZBnm5YuLdH3BTQV?usp=sharing
 برنامج شفيعي هوا برنامج للتذكير اليومي بايات قرانية واحاديث صحيحة ونصائح يوميه
+
 * البرنامج يحتوي علي القران كامل 
 * أكثر من 100 حديث صحيح 
 * أكثر من 100 نصيحة مختلفة
